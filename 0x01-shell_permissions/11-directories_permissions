@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 7755 dir
+chmod 700 dir0 dir1 dir2
