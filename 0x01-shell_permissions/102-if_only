@@ -1,2 +1,2 @@
 #!/bin/bash
-if id -u -n guillaume; then sudo chown betty hello; fi
+find id -user guillaume -exec chown betty
