@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+sudo chmod --reference=olleh hello
+>>>>>>> 9293a4591e8c8864366b1982c07f4a6b057e21c8
