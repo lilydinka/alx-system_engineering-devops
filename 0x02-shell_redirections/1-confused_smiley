@@ -1,2 +1,2 @@
 #!/bin/bash
-😕
+echo -e'\U1F615'
