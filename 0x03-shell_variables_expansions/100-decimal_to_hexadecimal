@@ -1,2 +1,2 @@
 #!/bin/bash
-$DECIMAL=16 printf '%X\n' $DECIMAL 
+DECIMAL=16 printf '%X\n' $DECIMAL 
