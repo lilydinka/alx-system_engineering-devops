@@ -1,1 +1,2 @@
 #!/bin/bash
+echo 'DECIMAL=10 $(([##16]DECIMAL))'
