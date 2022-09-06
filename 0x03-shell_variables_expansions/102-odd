@@ -1,2 +1,2 @@
 #!/bin/bash
-cat - |grep l_line
+ls -l
