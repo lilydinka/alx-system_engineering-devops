@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "$1" | while read m  do    grep "$m" "$2" done | sort -u
+sed -n 'p;n'
