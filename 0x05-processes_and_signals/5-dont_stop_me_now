@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
-# kill process especific.
-run_process=$(pgrep -f "4-to_infinity_and_beyond")
-kill "$run_process"
+# Find the PID of 4-to_infinity_and_beyond process
+pid=$(pgrep -f 4-to_infinity_and_beyond)
+
+# Send SIGTERM signal to the process
+kill $pid
