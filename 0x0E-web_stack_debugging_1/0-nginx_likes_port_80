@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Script that sets the port 80
-#!/bin/bash
+
 
 # Step 1: Install net-tools package
 sudo apt-get update
